@@ -9,8 +9,4 @@
   <input type="datetime" name="bdaytime">
   <input type="submit">
 </form>
-
-<p><b>Note:</b> type="datetime" is not supported in Chrome, Firefox, or Internet Explorer.</p>
-
-</body>
-</html>
+/html>
